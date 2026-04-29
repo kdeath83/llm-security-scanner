@@ -2,8 +2,6 @@
 
 One-click AWS deployment of a cost-optimized code security analyzer using self-hosted Llama 3.1 (8B) on SageMaker.
 
-## Cost: ~$200-400/month vs $3,000+ for Bedrock API
-
 ## Quick Deploy
 
 ```bash
